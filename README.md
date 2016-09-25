@@ -11,3 +11,7 @@ Screenshots:
 ![ShowScreenshot](https://raw.githubusercontent.com/JasonZell/Document-Analyzer/master/exampleScreenshot/showreportScreenshot.png)
 
 
+
+CONTRIBUTORS: 
+
+Chang Zhang, Ryan Waer

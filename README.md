@@ -14,4 +14,5 @@ Screenshots:
 
 CONTRIBUTORS: 
 
-Chang Zhang, Ryan Waer
+Chang Zhang (https://github.com/JasonZell)
+Ryan Waer (https://github.com/rwhere) 
